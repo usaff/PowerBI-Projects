@@ -1,4 +1,4 @@
-![Plant Co. Gross Profit Performance Dashboard](./Power%20Co.%20Gross%20Profit%20Performance/Plant%20co.%20Gross%20Profit%20Performance%20Dashboard.PNG)
+
 
 # Plant Co. Gross Profit Performance Dashboard
 

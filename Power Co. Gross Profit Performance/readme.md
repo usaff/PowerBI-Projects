@@ -1,3 +1,4 @@
+![Plant Co. Gross Profit Performance Dashboard](./PlantCo_GrossProfitPerformanceDashboard.png)
 # Plant Co. Gross Profit Performance Dashboard
 
 This dashboard provides in-depth insights into Plant Co.'s gross profit performance across various countries, product types, and time periods. The aim is to enhance decision-making by presenting dynamic and interactive visualizations.

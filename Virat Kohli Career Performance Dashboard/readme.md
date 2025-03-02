@@ -25,7 +25,7 @@ This project is a **data-driven tribute** to **Virat Kohli**, one of the greates
 
 The inspiration for this project came from the **Asia Cup 2025**, where **India defeated Pakistan** in a high-intensity match. After the game, some critics questioned Kohli’s form. As a dedicated **Virat Kohli fan**, this dashboard was built to **showcase his legendary career using data-driven insights.**
 
-![Virat Kohli](Virat_Kohli_Career_Performance_Dashboard.PNG)
+<img alt="Banner Image" src="Virat_Kohli_Career_Performance_Dashboard.PNG" style="width:100%; height:auto;"><br>
 
 
 ---
